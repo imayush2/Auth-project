@@ -4,7 +4,11 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "dev": "nodemon api/index.js",
+=======
+    "dev":"nodemon api/index.js",
+>>>>>>> cf2e05fa683f53e7f205081e265c373863bea1fc
     "start": "node api/index.js"
   },
   "keywords": [],
@@ -12,9 +16,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongoose": "^8.6.1",
+=======
+    "express": "^4.19.2",
+>>>>>>> cf2e05fa683f53e7f205081e265c373863bea1fc
     "nodemon": "^3.1.4"
   }
 }

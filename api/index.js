@@ -1,4 +1,5 @@
 import express from "express";
+<<<<<<< HEAD
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 
@@ -12,6 +13,8 @@ mongoose
  .catch((err)=>{
     console.log(err);
  })
+=======
+>>>>>>> cf2e05fa683f53e7f205081e265c373863bea1fc
 
 const app = express();
 
